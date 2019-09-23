@@ -2,7 +2,7 @@ name: acdc
 channels:
   - defaults
 dependencies:
-  - matplotlib
+  - matplotlib=3.1.0
   - pandas
   - geopandas
   - numpy
