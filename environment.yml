@@ -1,0 +1,10 @@
+name: acdc
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - geopandas
+  - numpy
+  - seaborn
+  - scikit-learn
